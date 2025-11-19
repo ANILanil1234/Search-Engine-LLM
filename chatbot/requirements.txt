@@ -18,4 +18,5 @@ langchain.classic
 langgraph
 langchain-openai
 langchain_mistralai
+ddgs
 pyarrow>=14.0.0
